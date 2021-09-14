@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Udaan",
+    "subtitle": "Impression on your heart and soul",
+    "description":
+      "Vikramaditya Motwane's directorial debut is easily one of the finest coming-of-age films to have come out of Bollywood. The film artfully combined the representation of teenage angst with its take on child abuse.",
+    "image":
+      "https://image.scoopwhoop.com/w620/s3.scoopwhoop.com/anj2/5dd3c34850758d6730e4f44f/1a5c3349-366f-489b-9897-ab3452c20e52.jpg.webp",
+    "rating": 4
+  },
+  {"id": 2,
+    "title": "Band Baaja Baaraat",
+    "subtitle": "A relatable story",
+    "description":
+      "Band Baaja Baaraat is an entertaining reminder of what traditionally defines Hindi movies - the songs, the dancing, the drama, the comedy, and of course, the romance.",
+    "image":
+      "https://image.scoopwhoop.com/w620/s4.scoopwhoop.com/anj2/5dd3c34850758d6730e4f44f/5636c60d-73dc-4a03-ab74-ccdb5b655831.jpg.webp",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "title": "Ishqiya",
+    "subtitle": "Hit-and-miss run with thrillers",
+    "description":
+      "In Bollywood's hit-and-miss run with thrillers, Ishqiya counts as a definite hit. The storyline and the plot reveals were intriguing and unexpected - elements that are essential for every thriller.",
+    "image":
+      "https://image.scoopwhoop.com/w620/s4.scoopwhoop.com/anj2/5dd3c34850758d6730e4f44f/fbbe0cd5-c678-4692-85f1-2ed3844fdc8f.jpg.webp",
+    "rating": 2
+  }
+]
+
